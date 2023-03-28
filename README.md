@@ -1,0 +1,1 @@
+# HIBERNATE-many-to-one
